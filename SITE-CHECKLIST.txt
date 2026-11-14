@@ -1,0 +1,7 @@
+BEFORE PUBLIC LAUNCH
+[ ] Add a real email address to PROFILE in script.js
+[ ] Add Instagram / LinkedIn / WhatsApp links if desired
+[ ] Replace concept project art with approved final screenshots
+[ ] Add real project URLs and case-study descriptions
+[ ] Review all biographical details
+[ ] Test the mobile layout and contact link
